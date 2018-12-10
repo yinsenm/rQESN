@@ -1,0 +1,13 @@
+Package: rQESN
+Type: Package
+Title: Quadratic Echo State Network
+Version: 1.0
+Date: 2018-04-29
+Author: Yinsen Miao, Yizhou Xia
+Maintainer: Yinsen Miao <yinsenm@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: Apache License 2.0
+Imports: Rcpp (>= 0.12.16), RcppEigen (>= 0.3.3.4.0)
+LinkingTo: Rcpp, RcppEigen
+NeedsCompilation: yes
+Packaged: 2018-04-30 03:50:19 UTC; yinse
